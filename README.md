@@ -4,7 +4,7 @@ A machine learning-powered web application that predicts the likelihood of depre
 
 ## 📁 Project Structure
 
-- `app.py` – Web application interface (Streamlit or Flask).
+- `app.py` – Web application interface (Streamlit and Flask).
 - `train.py` – Model training script.
 - `depression_model.pkl` – Trained machine learning model.
 - `scaler.pkl` – Preprocessing scaler object (used for consistent input transformation).
